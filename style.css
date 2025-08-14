@@ -216,7 +216,7 @@ body {
   font-weight: bold;
   width: fit-content;
 }
-
+ 
 .project-btn:hover {
   background: #ff4b4b;
 }
@@ -261,6 +261,8 @@ body {
 body {
   overflow-x: hidden;
 }
+
+
 @media (max-width: 768px) {
   .navbar ul {
     flex-direction: column;
@@ -289,4 +291,3 @@ body {
     padding: 2rem 1rem;
   }
 }
-
